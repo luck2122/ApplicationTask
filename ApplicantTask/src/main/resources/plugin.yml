@@ -1,0 +1,11 @@
+name: ApplicantTask
+version: '1.0-SNAPSHOT'
+main: de.luck212.applicantTask.ApplicantTask
+api-version: '1.20'
+commands:
+  creategroup:
+  language:
+  remove:
+  addgroup:
+  rang:
+  change:
